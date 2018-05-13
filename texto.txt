@@ -1,7 +1,4 @@
 -----------terceira alteracao 13 05 2018------------------
-
-
 foi alterado 
-
-
 branche bug
+linha 6 git hab
